@@ -2,8 +2,6 @@
 #include <cs50.h>
 #include <math.h>
 
-//First program
-
 int main(void)
 {
     // remembers values
